@@ -1,6 +1,4 @@
-local len = string.len
 local upper = string.upper
-local sub = string.sub
 local print = ngx.print
 local exec = ngx.exec
 
